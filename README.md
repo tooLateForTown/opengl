@@ -2,6 +2,6 @@
 This document represents my notes on working with OpenGL.  It was created when I wa staking COMP 471 (Computer Graphics) course at Concordia University in Montreal in 2021.  
 
 # Installing on XCode on M1 
-I was able to get the GLEW hello world working.  I did this using [This youtube video](https://www.youtube.com/watch?v=MHlbNbWlrIM) and [this broken link]() for repairing the signing.  One important note is that the version of homebrew I am using writes to /opt/homebrew/Cellar instead of to /opt/... 
+I was able to get the GLEW [hello world](https://www.glfw.org/documentation.html) working.  I did this using [This youtube video](https://www.youtube.com/watch?v=MHlbNbWlrIM) and [this broken link]() for repairing the signing.  One important note is that the version of homebrew I am using writes to /opt/homebrew/Cellar instead of to /opt/... 
 
 
