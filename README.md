@@ -1,3 +1,4 @@
+## OpenGL Notes for COMP 471 
 # Purpose 
 This document represents my notes on working with OpenGL.  It was created when I wa staking COMP 471 (Computer Graphics) course at Concordia University in Montreal in 2021.  
 
